@@ -2,6 +2,29 @@
 Changelog for package omni_base_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.14.1 (2026-06-22)
+-------------------
+* Add missing ros_gz dependencies
+* Contributors: Noel Jimenez
+
+2.14.0 (2026-06-12)
+-------------------
+* fix typo
+* Contributors: antoniobrandi
+
+2.13.0 (2026-06-02)
+-------------------
+* stores_server log levelwq
+* separate advanced docking
+* Contributors: antoniobrandi
+
+2.12.0 (2026-03-20)
+-------------------
+* fix linting
+* publish odom
+* add parameters for gazebo version
+* Contributors: thomasung
+
 2.11.1 (2025-12-15)
 -------------------
 * missing deps
