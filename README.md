@@ -1,3 +1,28 @@
+## omni_base_simulation (humble) - 2.15.0-1
+
+The packages in the `omni_base_simulation` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble omni_base_simulation -y` on `Thu, 06 Aug 2026 08:16:57 -0000`
+
+These packages were released:
+- `omni_base_gazebo`
+- `omni_base_simulation`
+
+Version of package(s) in repository `omni_base_simulation`:
+
+- upstream repository: https://github.com/pal-robotics/omni_base_simulation.git
+- release repository: https://github.com/ros2-gbp/omni_base_simulation-release.git
+- rosdistro version: `2.14.1-1`
+- old version: `2.14.1-1`
+- new version: `2.15.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## omni_base_simulation (humble) - 2.14.1-1
 
 The packages in the `omni_base_simulation` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble -y omni_base_simulation` on `Tue, 23 Jun 2026 10:09:27 -0000`
