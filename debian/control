@@ -1,0 +1,12 @@
+Source: ros-humble-omni-base-gazebo
+Section: misc
+Priority: optional
+Maintainer: "Andrea Capodacqua" <andrea.capodacqua@pal-robotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake-auto, ros-humble-ament-lint-auto <!nocheck>, ros-humble-ament-lint-common <!nocheck>, ros-humble-ros-workspace
+Homepage: https://index.ros.org/p/omni_base_gazebo/#humble
+Standards-Version: 3.9.2
+
+Package: ros-humble-omni-base-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-gazebo-plugins, ros-humble-gazebo-ros, ros-humble-gazebo-ros2-control, ros-humble-launch-pal, ros-humble-nav2-bringup, ros-humble-omni-base-2dnav, ros-humble-omni-base-bringup, ros-humble-omni-base-description, ros-humble-omni-base-laser-sensors, ros-humble-omni-base-rgbd-sensors, ros-humble-pal-gazebo-plugins, ros-humble-pal-gazebo-worlds, ros-humble-pal-maps, ros-humble-pal-urdf-utils, ros-humble-ros-gz-bridge, ros-humble-ros-gz-sim, ros-humble-ros2launch, ros-humble-ros-workspace
+Description: The omni_base_gazebo package
